@@ -313,5 +313,3 @@ AI made the first draft cheap. What remained for me was specifying what the boar
 
 Thank you again to HackerEarth and to Sreejith PV sir for this opportunity. It was exciting, and I learned a lot.
 findings underneath really mean.
-
-**Suggested topics:** `vibe-coding`, `ai-coding`, `code-quality`, `case-study`, `prompt-engineering`, `vibecodearena`, `react`, `database-migrations`, `learn-to-code`
