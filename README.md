@@ -312,11 +312,6 @@ I started with a four-line brief and ended with a working vision board, an 89% s
 AI made the first draft cheap. What remained for me was specifying what the board should do, reading the model's explanations, triaging the metrics and deciding what to trust. That is the work that does not go away, and it is the part I want to get better at.
 
 Thank you again to HackerEarth and to Sreejith PV sir for this opportunity. It was exciting, and I learned a lot.
-
----
-
-**Suggested repository name:** `vibe-coding-vision-board-case-study`
-
-**Suggested description:** A build log and metrics case study of a digital vision board built with AI on VibeCodeArena: prompts, fixes, an 89% score, and what the findings underneath really mean.
+findings underneath really mean.
 
 **Suggested topics:** `vibe-coding`, `ai-coding`, `code-quality`, `case-study`, `prompt-engineering`, `vibecodearena`, `react`, `database-migrations`, `learn-to-code`
